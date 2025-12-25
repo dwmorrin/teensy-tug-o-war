@@ -26,4 +26,4 @@ Adding another button would allow for sequence like A -> B -> A -> B to move the
 
 ### Timing challenges
 
-Press and hold to charge up? Hold to long and you lose ground?
+Press and hold to charge up? Hold too long and you lose ground?

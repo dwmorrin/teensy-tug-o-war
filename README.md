@@ -14,7 +14,7 @@ Only one LED is illuminated at a time.
 
 Two buttons at each end of the line of LEDs are the game inputs.
 
-Pressing a button causes the illuminated LED to move closed to that button.
+Pressing a button causes the illuminated LED to move closer to that button.
 
 The first player to bring the illuminated LED all the way to their end of the line wins.
 
